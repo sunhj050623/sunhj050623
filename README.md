@@ -1,27 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,50:2563eb,100:1e40af&text=Hello%20%F0%9F%91%8B&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=38" />
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px" /> Hello, I'm HaoJie.Sun
 
-# Welcome to my GitHub Profile, I'm HaoJie.Sun 👋
-
-### `Backend` | `Automation` | `Cloud`
-
-<img src="https://img.shields.io/badge/Focus-AI%20Engineering-0ea5e9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Code-Python%20%7C%20Java%20%7C%20TypeScript-2563eb?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Always%20Learning-22c55e?style=for-the-badge" />
-
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=36&lines=Welcome+to+my+GitHub+Profile;Backend+%7C+Automation+%7C+Cloud;AI+Engineering+%7C+Always+Learning"
+/>
+<br/>
+<img src="https://img.shields.io/badge/Backend-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-1d4ed8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-0ea5e9?style=for-the-badge" />
 </div>
----
-
 ## 🧠 About Me
-
 - I build practical software with strong engineering discipline.
 - I enjoy designing AI agent systems and automation workflows.
 - I value clean architecture, observability, and testability.
 - I like turning complex ideas into maintainable products.
-
----
-
 ## ⚡ Technologies
 
 ### 👨‍💻 Languages
@@ -49,7 +42,6 @@
   <img src="https://img.shields.io/badge/Vue-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 </p>
-
 ### 🗄️ Databases & Cache
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-1f4f7a?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -58,7 +50,6 @@
   <img src="https://img.shields.io/badge/Redis-a41e11?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-0f80cc?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-
 ### ☁️ DevOps & Cloud
 <p>
   <img src="https://img.shields.io/badge/Docker-0b63a8?style=for-the-badge&logo=docker&logoColor=white" />
@@ -78,10 +69,7 @@
   <img src="https://img.shields.io/badge/Postman-f76935?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-1f2937?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
----
-
 ## 🚀 Current Focus
-
 - AI Agent Orchestration
 - Developer Productivity Tools
 - Workflow Automation
