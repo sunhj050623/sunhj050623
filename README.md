@@ -10,11 +10,13 @@
 <img src="https://img.shields.io/badge/Automation-1d4ed8?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cloud-0ea5e9?style=for-the-badge" />
 </div>
+
 ## 🧠 About Me
 - I build practical software with strong engineering discipline.
 - I enjoy designing AI agent systems and automation workflows.
 - I value clean architecture, observability, and testability.
 - I like turning complex ideas into maintainable products.
+
 ## ⚡ Technologies
 
 ### 👨‍💻 Languages
@@ -42,6 +44,7 @@
   <img src="https://img.shields.io/badge/Vue-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 </p>
+
 ### 🗄️ Databases & Cache
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-1f4f7a?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -50,6 +53,7 @@
   <img src="https://img.shields.io/badge/Redis-a41e11?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-0f80cc?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
+
 ### ☁️ DevOps & Cloud
 <p>
   <img src="https://img.shields.io/badge/Docker-0b63a8?style=for-the-badge&logo=docker&logoColor=white" />
@@ -69,6 +73,7 @@
   <img src="https://img.shields.io/badge/Postman-f76935?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-1f2937?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
+
 ## 🚀 Current Focus
 - AI Agent Orchestration
 - Developer Productivity Tools
