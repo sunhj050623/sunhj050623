@@ -2,7 +2,13 @@
 
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px" /> Hello, I'm HaoJie.Sun
 
-![Profile Views](https://komarev.com/ghpvc/?username=sunhj050623&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=sunhj050623&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+    height="32"
+  />
+</p>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=36&lines=Welcome+to+my+GitHub+Profile;Backend+%7C+Automation+%7C+Cloud;AI+Engineering+%7C+Always+Learning"
